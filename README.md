@@ -1,1 +1,1 @@
-Hello world, in this repo I'm trying to make a mystery detective game called "Mindscape Mayhem". It will take a couple of months to complete the game until then enjoy other games. Hope you all will enjoy the game too when it's released.   
+Hello world !! in this repo I'm trying to make a mystery detective game called "Mindscape Mayhem". It will take a couple of months to complete the game until then enjoy other games. Hope you all will enjoy the game too when it's released.   
